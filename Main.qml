@@ -17,7 +17,6 @@ Window
         anchors.top: parent.top
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.margins: 20
-        //text: "等待波形数据..."
         text: "尚未开启"
         color: "#00ff00"
         font.pixelSize: 20
